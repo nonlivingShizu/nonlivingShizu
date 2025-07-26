@@ -16,9 +16,6 @@
 ---
 
 ### 📚 Teaching Resources  
-#### My Original Content:  
-- 📌 [React Hooks Simplified Guide](https://github.com/nonlivingShizu/react-hooks-guide) *(example link)*  
-- 📌 [JavaScript Crash Course for Beginners](https://github.com/nonlivingShizu/js-crash-course) *(example link)*  
 
 #### Recommended Learning Resources:  
 - 🎓 [Angela Yu's Udemy Web Dev Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
