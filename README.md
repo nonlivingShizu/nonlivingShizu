@@ -1,6 +1,5 @@
 # nonlivingShizu (Shizu) 💻
 
-## 👋 Overview
 - 💻 Frontend Full-Stack Developer 
 -  Programming Instructor
 - 📍 Based in Yangon, Myanmar  
