@@ -40,4 +40,4 @@
 ### 🚀 What I'm Doing Now  
 - 🔍 Learning Next.js and GraphQL  
 - 🛒 Building MERN E-Commerce Template  
-- 🎓 Teaching Frontend Fundamentals to local students
+
